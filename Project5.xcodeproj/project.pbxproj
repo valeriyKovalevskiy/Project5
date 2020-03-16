@@ -13,6 +13,7 @@
 		785C8D00241F5B710016B14A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 785C8CFE241F5B710016B14A /* Main.storyboard */; };
 		785C8D02241F5B730016B14A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 785C8D01241F5B730016B14A /* Assets.xcassets */; };
 		785C8D05241F5B730016B14A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 785C8D03241F5B730016B14A /* LaunchScreen.storyboard */; };
+		785C8D0D241F61FB0016B14A /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 785C8D0C241F61FB0016B14A /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		785C8D01241F5B730016B14A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		785C8D04241F5B730016B14A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		785C8D06241F5B730016B14A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		785C8D0C241F61FB0016B14A /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				785C8CFA241F5B710016B14A /* SceneDelegate.swift */,
 				785C8CFC241F5B710016B14A /* ViewController.swift */,
 				785C8CFE241F5B710016B14A /* Main.storyboard */,
+				785C8D0C241F61FB0016B14A /* start.txt */,
 				785C8D01241F5B730016B14A /* Assets.xcassets */,
 				785C8D03241F5B730016B14A /* LaunchScreen.storyboard */,
 				785C8D06241F5B730016B14A /* Info.plist */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				785C8D05241F5B730016B14A /* LaunchScreen.storyboard in Resources */,
+				785C8D0D241F61FB0016B14A /* start.txt in Resources */,
 				785C8D02241F5B730016B14A /* Assets.xcassets in Resources */,
 				785C8D00241F5B710016B14A /* Main.storyboard in Resources */,
 			);
